@@ -1,0 +1,4 @@
+
+enum TabState{
+    token ,nft 
+}
